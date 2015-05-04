@@ -1,3 +1,14 @@
+/*Tweener!!*/
+
+.tweener {
+    height: 2px;
+    margin-bottom: 40px !important;
+    width: 90%;
+    background-color: rgb(195,224,166);
+}
+
+
+
 /*Fold*/
 #fold {
     z-index: 30000;
